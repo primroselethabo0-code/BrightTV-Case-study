@@ -1,2 +1,3 @@
 # BrightTV-Case-study
 Project on BrightTV
+this project contains information on the insights that would assist CVM(Customer Value Management) team in meeting this year's objective. the insights are made possible by firstly planning my project through a flowchart and ghinchatt, to get the insight i had to do my coding through Databricks to clean the dataset given and make it more understandable by making a broad view of usage trends, the factors that influence consumption and through an organised excel sheet table with the p[ivot tables i would come up with recommendation to increase consuption when it is low. initiatives will also be recommended for further growth of the BrightTV User base. 
